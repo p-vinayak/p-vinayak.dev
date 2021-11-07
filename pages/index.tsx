@@ -3,7 +3,7 @@ import path from "path";
 import fs from "fs";
 import ContentPage from "../components/templates/ContentPage";
 import matter from "gray-matter";
-import { marked } from "marked"; // Will show an error until @types/marked v4 is released
+import marked from "marked"; // Will show an error until @types/marked v4 is released
 
 export const getStaticProps: GetStaticProps = async () => {
 	const file = path.join(process.cwd(), "/content/about.md");
