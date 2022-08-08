@@ -5,7 +5,7 @@ description: "Vinayak Prataap Projects"
 
 # Projects
 
-This page **does not include my work experience**. The projects listed below showcase side-projects that I have worked in my spare time. To find out more about my work experience, please view my [resume](/resume.pdf).
+This page **does not include my work experience**. The projects listed below showcase side-projects that I have worked on in my spare time. To find out more about my work experience, please view my [resume](/resume.pdf).
 
 - Open Source Software
   - [Celluloid](https://github.com/celluloid/celluloid) - Ruby Concurrency Framework
